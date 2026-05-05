@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/moc-abelardo-cu/","tags":["MOC","índice","perfil"],"created":"2026-05-05T14:23:53.177-07:00","dg-note-properties":{"tags":["MOC","índice","perfil"],"tipo":"mapa-de-contenido","actualizado":"2026-05"}}
+{"dg-publish":true,"permalink":"/moc-abelardo-cu/","tags":["MOC","índice","perfil","gardenEntry"],"created":"2026-05-05T14:23:53.177-07:00","dg-note-properties":{"tags":["MOC","índice","perfil","gardenEntry"],"tipo":"mapa-de-contenido","actualizado":"2026-05"}}
 ---
 
 
