@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ferreteria-experiencia-laboral/","tags":["trabajo","experiencia-laboral","ferretería"],"created":"2026-05-05T14:27:12.141-07:00","dg-note-properties":{"tags":["trabajo","experiencia-laboral","ferretería"],"tipo":"experiencia"}}
+{"tags":["trabajo","experiencia-laboral","ferretería"],"tipo":"experiencia","dg-publish":true,"permalink":"/ferreteria-experiencia-laboral/","dgPassFrontmatter":true,"created":"2026-05-05T14:27:12.141-07:00","dg-note-properties":{"tags":["trabajo","experiencia-laboral","ferretería"],"tipo":"experiencia"}}
 ---
 
 

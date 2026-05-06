@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cronologia-linea-del-tiempo/","tags":["cronología","timeline","historia-personal"],"created":"2026-05-05T14:24:01.533-07:00","dg-note-properties":{"tags":["cronología","timeline","historia-personal"],"tipo":"cronología"}}
+{"tags":["cronología","timeline","historia-personal"],"tipo":"cronología","dg-publish":true,"permalink":"/cronologia-linea-del-tiempo/","dgPassFrontmatter":true,"created":"2026-05-05T14:24:01.533-07:00","dg-note-properties":{"tags":["cronología","timeline","historia-personal"],"tipo":"cronología"}}
 ---
 
 

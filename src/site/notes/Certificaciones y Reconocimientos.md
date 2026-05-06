@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/certificaciones-y-reconocimientos/","tags":["certificaciones","logros","reconocimientos","premios"],"created":"2026-05-05T14:24:29.820-07:00","dg-note-properties":{"tags":["certificaciones","logros","reconocimientos","premios"],"tipo":"logros"}}
+{"tags":["certificaciones","logros","reconocimientos","premios"],"tipo":"logros","dg-publish":true,"permalink":"/certificaciones-y-reconocimientos/","dgPassFrontmatter":true,"created":"2026-05-05T14:24:29.820-07:00","dg-note-properties":{"tags":["certificaciones","logros","reconocimientos","premios"],"tipo":"logros"}}
 ---
 
 

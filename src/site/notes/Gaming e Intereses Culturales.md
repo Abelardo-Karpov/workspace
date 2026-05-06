@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gaming-e-intereses-culturales/","tags":["gaming","cultura","intereses","videojuegos"],"created":"2026-05-05T14:24:27.792-07:00","dg-note-properties":{"tags":["gaming","cultura","intereses","videojuegos"],"tipo":"intereses"}}
+{"tags":["gaming","cultura","intereses","videojuegos"],"tipo":"intereses","dg-publish":true,"permalink":"/gaming-e-intereses-culturales/","dgPassFrontmatter":true,"created":"2026-05-05T14:24:27.792-07:00","dg-note-properties":{"tags":["gaming","cultura","intereses","videojuegos"],"tipo":"intereses"}}
 ---
 
 

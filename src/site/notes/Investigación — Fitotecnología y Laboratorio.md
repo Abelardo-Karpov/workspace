@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/investigacion-fitotecnologia-y-laboratorio/","tags":["investigación","biología","fitotecnología","laboratorio"],"created":"2026-05-05T14:24:08.419-07:00","dg-note-properties":{"tags":["investigación","biología","fitotecnología","laboratorio"],"tipo":"proyecto"}}
+{"tags":["investigación","biología","fitotecnología","laboratorio"],"tipo":"proyecto","dg-publish":true,"permalink":"/investigacion-fitotecnologia-y-laboratorio/","dgPassFrontmatter":true,"created":"2026-05-05T14:24:08.419-07:00","dg-note-properties":{"tags":["investigación","biología","fitotecnología","laboratorio"],"tipo":"proyecto"}}
 ---
 
 

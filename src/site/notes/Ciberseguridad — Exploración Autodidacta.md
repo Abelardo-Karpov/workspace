@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ciberseguridad-exploracion-autodidacta/","tags":["ciberseguridad","hacking","autodidacta","exploración"],"created":"2026-05-05T14:24:10.471-07:00","dg-note-properties":{"tags":["ciberseguridad","hacking","autodidacta","exploración"],"tipo":"habilidades"}}
+{"tags":["ciberseguridad","hacking","autodidacta","exploración"],"tipo":"habilidades","dg-publish":true,"permalink":"/ciberseguridad-exploracion-autodidacta/","dgPassFrontmatter":true,"created":"2026-05-05T14:24:10.471-07:00","dg-note-properties":{"tags":["ciberseguridad","hacking","autodidacta","exploración"],"tipo":"habilidades"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/moc-abelardo-cu/","tags":["MOC","índice","perfil","gardenEntry"],"created":"2026-05-05T14:23:53.177-07:00","dg-note-properties":{"tags":["MOC","índice","perfil","gardenEntry"],"tipo":"mapa-de-contenido","actualizado":"2026-05"}}
+{"tags":["MOC","índice","perfil","gardenEntry"],"tipo":"mapa-de-contenido","actualizado":"2026-05","dg-publish":true,"dg-home":"true","permalink":"/moc-abelardo-cu/","dgPassFrontmatter":true,"created":"2026-05-05T14:23:53.177-07:00","dg-note-properties":{"tags":["MOC","índice","perfil","gardenEntry"],"tipo":"mapa-de-contenido","actualizado":"2026-05"}}
 ---
 
 # 🗺️ MOC — Abelardo Cu
@@ -22,7 +22,7 @@ Datos INCOMPLETOS.
 > ⚠️ **Pendiente** — faltan notas por crear conforme se agregue más información al vault.
 
 ## Estado actual (2026)
-- Finalizando bachillerato — Prepa 3 UANL, Grupo 305
+- Prepa 3 UANL
 - Mejorando robots de soccer para Super Regional en Canada Robocup 2026
 - Colaborando en laboratorio de biología con Dr. Gerardo y Matías (LBG)
 - Próximo objetivo: LBG en Facultad de Ciencias Biológicas UANL (2027)

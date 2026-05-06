@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacion-academica-y-planes/","tags":["formación","académico","planes","UANL","biotecnología"],"created":"2026-05-05T14:27:12.026-07:00","dg-note-properties":{"tags":["formación","académico","planes","UANL","biotecnología"],"tipo":"formación"}}
+{"tags":["formación","académico","planes","UANL","biotecnología"],"tipo":"formación","dg-publish":true,"permalink":"/formacion-academica-y-planes/","dgPassFrontmatter":true,"created":"2026-05-05T14:27:12.026-07:00","dg-note-properties":{"tags":["formación","académico","planes","UANL","biotecnología"],"tipo":"formación"}}
 ---
 
 

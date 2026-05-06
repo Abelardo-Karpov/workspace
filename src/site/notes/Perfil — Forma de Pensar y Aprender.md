@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfil-forma-de-pensar-y-aprender/","tags":["perfil","meta","identidad","forma-de-pensar"],"created":"2026-05-05T14:27:12.464-07:00","dg-note-properties":{"tags":["perfil","meta","identidad","forma-de-pensar"],"tipo":"perfil"}}
+{"tags":["perfil","meta","identidad","forma-de-pensar"],"tipo":"perfil","dg-publish":true,"permalink":"/perfil-forma-de-pensar-y-aprender/","dgPassFrontmatter":true,"created":"2026-05-05T14:27:12.464-07:00","dg-note-properties":{"tags":["perfil","meta","identidad","forma-de-pensar"],"tipo":"perfil"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/habilidades-y-stack-tecnico/","tags":["habilidades","técnico","stack","programación"],"created":"2026-05-05T14:24:04.110-07:00","dg-note-properties":{"tags":["habilidades","técnico","stack","programación"],"tipo":"habilidades"}}
+{"tags":["habilidades","técnico","stack","programación"],"tipo":"habilidades","dg-publish":true,"permalink":"/habilidades-y-stack-tecnico/","dgPassFrontmatter":true,"created":"2026-05-05T14:24:04.110-07:00","dg-note-properties":{"tags":["habilidades","técnico","stack","programación"],"tipo":"habilidades"}}
 ---
 
 

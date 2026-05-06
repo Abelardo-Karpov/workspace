@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/robotica-trayectoria-competitiva/","tags":["robótica","torneos","competencia","UANL"],"created":"2026-05-05T14:24:06.155-07:00","dg-note-properties":{"tags":["robótica","torneos","competencia","UANL"],"tipo":"proyecto"}}
+{"tags":["robótica","torneos","competencia","UANL"],"tipo":"proyecto","dg-publish":true,"permalink":"/robotica-trayectoria-competitiva/","dgPassFrontmatter":true,"created":"2026-05-05T14:24:06.155-07:00","dg-note-properties":{"tags":["robótica","torneos","competencia","UANL"],"tipo":"proyecto"}}
 ---
 
 
