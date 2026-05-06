@@ -31,6 +31,7 @@
 ## Planes académicos
 
 ### Corto plazo (2026–2027)
+- Asistir a torneo de robotica robofut en cdmx julio 2026 junto torneo de robotica super regional en canada toronto octubre 2026
 - Finalizar bachillerato
 - Preparar admisión a LBG, UANL
 - Publicar primer preprint / contribución científica en biogerontología computacional (objetivo personal)

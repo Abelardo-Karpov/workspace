@@ -33,5 +33,5 @@
 ## Logros no formalizados
 > ⚠️ Pendiente por completar — faltan logros por agregar
 
-- Proyecto de investigación experimental con mentores con doctorado (antes de entrar a facultad)
+- Proyecto de investigación experimental con mentor con doctorado (antes de entrar a facultad)
 - Diseño, electrónica y programación íntegra de robots competitivos a nivel nacional

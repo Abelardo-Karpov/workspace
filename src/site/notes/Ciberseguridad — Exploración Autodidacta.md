@@ -7,7 +7,7 @@
 
 > ⚠️ **Incompleta** — faltan áreas y detalles por agregar.
 
-> Período de exploración intensa: ~2019–2021 (13–14 años)
+> Período de exploración intensa: ~2019–2023 (12–16 años)
 > Naturaleza: completamente autodidacta, sin guía formal
 
 ## Áreas exploradas

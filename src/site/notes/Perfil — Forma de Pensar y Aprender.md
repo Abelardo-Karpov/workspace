@@ -28,12 +28,11 @@ En cada transición: entró sin guía, construyó comprensión desde los fundame
 - Sistemas complejos con lógica interna descubrible
 - Retos técnicos concretos con resultado medible
 
-## Referentes intelectuales / culturales
-- **Ficción:** Steins;Gate (causalidad, determinismo, sacrificio lógico)
-- **Ciencia:** López-Otín (Hallmarks), Uri Alon (Systems Bio), Grigori Perelman (rigor matemático como ideal)
+## Intereses intelectuales / culturales, faltan
+- **Ficción:** Steins;Gate, Subete ga f ni naru
+- **Ciencia:** López-Otín (Hallmarks), Grigori Perelman (rigor matematico como ideal), Leonardo Da Vinci, Newton
 - **Filosofía previa:** Jacobo Grinberg, metafísica, ocultismo (fase explorada, no activa)
 
 ## Preferencias de interacción
-- No le gusta ser sobreestimado de entrada; prefiere ser medido gradualmente
 - Responde mejor a retroalimentación directa y honesta
 - Aprende mejor cuando ve la conexión entre piezas antes del detalle

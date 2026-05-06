@@ -13,6 +13,7 @@
 - Plataforma principal de aprendizaje técnico durante años clave
 - Uso: scripting, creación de mundos, exploración de sistemas cliente-servidor
 - No solo entretenimiento: fue el entorno donde se desarrollaron las primeras habilidades de programación
+- Participacion en grupos de SCP con rol de investigador cientifico aportando documentos y registros externos al juego de experimentos de SCPs en relacion a la Clase D o reclusos
 
 ### Undertale (~2019–2020) ⭐
 - Juego de impacto profundo

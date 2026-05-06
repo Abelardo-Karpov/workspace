@@ -9,7 +9,7 @@
 
 ## Institución
 Prepa 3, UANL — Equipo de robótica
-Equipo de competencia: **Robobytes**
+Equipos de competencia: **Robobytes y Vampire Robotics**
 
 ## Inicio
 - Ingreso al equipo: ~agosto 2023 (entrada a prepa, ~16 años)
@@ -21,13 +21,19 @@ Equipo de competencia: **Robobytes**
 ### Torneo 1 — Inter-preparatorias (~2024–2025)
 - **Categoría:** Rescue Line
 - **Resultado:** 2° lugar
-- **Nota:** Cámara del robot quemada en trayecto. Cámara prestada de último momento, ~5 min de calibración antes de cada partido.
-
+- **Rol de Abelardo:**
+  - Diseño mecánico completo
+  - Electrónica parcial
+  - Programación completa
+- **Nota:** Cámara del robot quemada en trayecto. Cámara prestada de último momento
 ### Torneo 2 — Inter-preparatorias (~2025–2026)
 - **Categoría:** Rescue Line
 - **Resultado:** Sin lugar destacado
-- **Contexto:** ~2 semanas de preparación; estado mental no óptimo en esa época.
-
+- **Rol de Abelardo:**
+  - Diseño mecánico completo
+  - Electrónica parcial
+  - Programación completa
+- **Contexto:** ~2 semanas de preparacion
 ### Torneo 3 — TMR 2026, Puebla (Nacional)
 - **Categoría:** Soccer Light Weight (Soccer Infrared)
 - **Resultado:** **3° lugar nacional**
@@ -38,10 +44,9 @@ Equipo de competencia: **Robobytes**
   - Programación completa (ambos robots)
   - Solución del Mayor Reto Técnico
 - **Premio:** 🏆 Mayor Reto Técnico — único participante del torneo en resolverlos
-- **Incidente:** En partido clave contra el eventual 1er lugar, uno de los robots fue apagado externamente. Al reiniciar, el giroscopio no pudo calibrar por vibración de la cancha (otros robots activos). Robot fuera ~2 últimos minutos → empate.
 
 ## Stack técnico de robótica
-- Microcontrolador: ESP32
-- Visión artificial: OpenMV
+- Microcontrolador: ESP32, Arduino
+- Visión artificial: OpenMV y OpenCV
 - Control: PID (navegación autónoma)
 - Lenguaje: C++ y Python

@@ -5,6 +5,7 @@
 # 🗺️ MOC — Abelardo Cu
 
 Mapa de contenido principal. Todas las notas de mi trayectoria personal, técnica y académica.
+Datos INCOMPLETOS.
 
 ## Notas principales
 
@@ -22,6 +23,7 @@ Mapa de contenido principal. Todas las notas de mi trayectoria personal, técnic
 
 ## Estado actual (2026)
 - Finalizando bachillerato — Prepa 3 UANL, Grupo 305
+- Mejorando robots de soccer para Super Regional en Canada Robocup 2026
 - Colaborando en laboratorio de biología con Dr. Gerardo y Matías (LBG)
 - Próximo objetivo: LBG en Facultad de Ciencias Biológicas UANL (2027)
 - Meta a largo plazo: investigación en biogerontología y medicina regenerativa

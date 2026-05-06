@@ -11,15 +11,15 @@
 Laboratorio de biología, Prepa 3, UANL
 
 ## Mentores
-- **Dr. Gerardo** — Biólogo Químico, Parasitólogo, Doctor en Biotecnología (ex-investigador ~10+ años)
-- **Matías** — Licenciatura en Biotecnología Genómica (en proceso de graduación)
+- **Dr. Gerardo** — Biólogo Químico, Parasitólogo, Doctor en Biotecnología 
+- **Mathias** — Licenciatura en Biotecnología Genómica (en proceso de graduación)
 
 ## Proyecto principal — Inhibición microbiana con fitoextractos
 
 ### Objetivo
-Evaluar propiedades antimicrobianas de fitoextractos de **cáscara de aguacate** (y gordolobo como referencia paralela).
+Evaluar propiedades antimicrobianas de fitoextractos de **cáscara de aguacate**
 
-### Metodología aplicada
+### Metodología aplicada INCOMPLETA
 1. Recolección de materia vegetal (cáscara de aguacate)
 2. Extracción con etanol
 3. Evaporación del etanol en matraces (evaporación para obtener extracto puro)
@@ -31,7 +31,7 @@ Durante ausencia por TMR 2026 (Puebla), los matraces de evaporación quedaron si
 
 ### Estado actual
 - Proyecto de fitoextractos: **pausado** (pendiente de reinicio)
-- Actividad actual con Matías: esterilización de material, protocolos de laboratorio estándar
+- Actividad actual con Mathias: esterilización de material, protocolos de laboratorio estándar
 
 ## Objetivo a mediano plazo
 Reactivar proyecto, afinar metodología y orientar resultados hacia una posible publicación en colaboración con los mentores del laboratorio.
