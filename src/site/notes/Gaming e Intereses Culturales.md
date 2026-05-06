@@ -26,14 +26,12 @@
 - Explorado con modificación de valores de memoria
 
 ### Doki Doki Literature Club
-- Exploración de archivos internos, easter eggs, narrativa meta
 
 ### Universim
-- Jugado durante la misma época
 
 > ⚠️ **Faltan muchos juegos por agregar** — esta lista es incompleta.
 
-### Valorant (~2020–2021)
+### Valorant 
 - Período de vicio (llegué a Diamante 1)
 
 ### Minecraft
