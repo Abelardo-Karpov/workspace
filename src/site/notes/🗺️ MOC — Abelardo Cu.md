@@ -25,3 +25,4 @@ Datos INCOMPLETOS.
 - Prepa 3 UANL
 - Mejorando robots de soccer para Super Regional en Canada Robocup 2026
 - Colaborando con laboratorio de biología
+- Investigación independiente insilico biogerontologia
