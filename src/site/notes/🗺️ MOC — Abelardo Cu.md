@@ -17,9 +17,7 @@ Datos INCOMPLETOS.
 - [[Robótica — Trayectoria Competitiva\|Robótica — Trayectoria Competitiva]]
 - [[Investigación — Fitotecnología y Laboratorio\|Investigación — Fitotecnología y Laboratorio]]
 - [[Ciberseguridad — Exploración Autodidacta\|Ciberseguridad — Exploración Autodidacta]]
-- [[Gaming e Intereses Culturales\|Gaming e Intereses Culturales]]
 - [[Certificaciones y Reconocimientos\|Certificaciones y Reconocimientos]]
 - [[Formación Académica y Planes\|Formación Académica y Planes]]
-- [[Ferretería — Experiencia Laboral\|Ferretería — Experiencia Laboral]]
 
 > ⚠️ **Pendiente** — faltan notas por crear conforme se agregue más información al vault.
