@@ -13,10 +13,9 @@
 - Educación convencional; aprendizaje técnico mayoritariamente autodidacta en paralelo
 
 ### Preparatoria — Prepa 3, UANL (2023–2026)
-- Grupo: 305
 - Ciclo actual: Enero–Junio 2026
 - Actividades extracurriculares: Robótica, Laboratorio de biología, Torneos de física
-- Asesor clave: Dr. Gerardo (laboratorio de biología)
+- Asesores clave: Ing. Adolfo, LBG Mathias, Dr. Gerardo
 
 ## Aprendizaje autodidacta paralelo (cronológico)
 | Período | Áreas |

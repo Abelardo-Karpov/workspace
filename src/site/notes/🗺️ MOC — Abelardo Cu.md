@@ -4,9 +4,12 @@
 
 # 🗺️ MOC — Abelardo Cu
 
-Mapa de contenido principal. Todas las notas de mi trayectoria personal, técnica y académica.
+Mapa de contenido principal. notas de mi trayectoria personal, técnica y académica.
 Datos INCOMPLETOS.
-
+## Estado actual (2026)
+- Mejorando robots de soccer para Super Regional en Canada Robocup 2026
+- Colaborando con laboratorio de biología
+- Investigación independiente insilico biogerontologia
 ## Notas principales
 
 - [[Cronología — Línea del Tiempo\|Cronología — Línea del Tiempo]]
@@ -20,9 +23,3 @@ Datos INCOMPLETOS.
 - [[Ferretería — Experiencia Laboral\|Ferretería — Experiencia Laboral]]
 
 > ⚠️ **Pendiente** — faltan notas por crear conforme se agregue más información al vault.
-
-## Estado actual (2026)
-- Prepa 3 UANL
-- Mejorando robots de soccer para Super Regional en Canada Robocup 2026
-- Colaborando con laboratorio de biología
-- Investigación independiente insilico biogerontologia

@@ -3,7 +3,7 @@
 ---
 
 
-# Perfil — Forma de Pensar y Aprender
+# Perfil — Forma Aprender
 
 > ⚠️ **Pendiente** — faltan reflexiones personales, más ejemplos del estilo cognitivo y referentes intelectuales por agregar.
 
