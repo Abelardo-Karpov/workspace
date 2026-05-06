@@ -24,6 +24,4 @@ Datos INCOMPLETOS.
 ## Estado actual (2026)
 - Prepa 3 UANL
 - Mejorando robots de soccer para Super Regional en Canada Robocup 2026
-- Colaborando en laboratorio de biología con Dr. Gerardo y Matías (LBG)
-- Próximo objetivo: LBG en Facultad de Ciencias Biológicas UANL (2027)
-- Meta a largo plazo: investigación en biogerontología y medicina regenerativa
+- Colaborando con laboratorio de biología
